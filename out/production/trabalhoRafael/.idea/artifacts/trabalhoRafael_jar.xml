@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="trabalhoRafael:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/trabalhoRafael_jar</output-path>
+    <root id="archive" name="trabalhoRafael.jar">
+      <element id="module-output" name="trabalhoRafael" />
+    </root>
+  </artifact>
+</component>
